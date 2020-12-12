@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![profile](https://miro.medium.com/max/1054/1*yxdy3UX6x1a6vMWWDCN8lw.jpeg)
+![profile](http://blogs.quovantis.com/wp-content/uploads/2020/01/kotlin.gif)
 
 
 <h1 align="center">Hi there 👋, I'm Nurudeen</h1>
