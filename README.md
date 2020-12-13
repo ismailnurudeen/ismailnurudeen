@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 I have played around with Java, Javascript, Python, Typescript and Dart but have come to fall in ♥ with Kotlin (Able to work and complete projects with any of the above) </b></p>
 
 - 🔭 I’m currently working on all things Kotlin. 
-- - 🌱 I sometimes write tech articles on https://ismailnurudeen.medium.com/
+- 🌱 I sometimes write tech articles on https://ismailnurudeen.medium.com/
 - 👯 I’m looking to collaborate on Android, Kotlin and Machine Learning projects. 
 
-- - 📫 How to reach me: [Twitter](https://twitter.com/TeenMutantCoder),[LinkedIn](https://www.linkedin.com/in/ismail-nurudeen-03639414b)
+- 📫 How to reach me: [Twitter](https://twitter.com/TeenMutantCoder),[LinkedIn](https://www.linkedin.com/in/ismail-nurudeen-03639414b)
 - ⚡ Fun fact: I love learning about the human brain and would love to learn how to play the Violin 🎻, Guitar or Ukulele 🎸 
 
 #### Technologies and Tools
