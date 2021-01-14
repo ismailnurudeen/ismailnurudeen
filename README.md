@@ -52,3 +52,5 @@ I have played around with Java, Javascript, Python, Typescript and Dart but have
 Mentor. 
 
 Thanks for checking out my profile.
+
+![Visitor Count](https://profile-counter.glitch.me/ismailnurudeen/count.svg)
