@@ -27,7 +27,7 @@ I have played around with Java, Javascript, Python, Typescript and Dart but have
 - 👯 I’m looking to collaborate on Android, Kotlin and Machine Learning projects. 
 
 - 📫 How to reach me: [Twitter](https://twitter.com/TeenMutantCoder),[LinkedIn](https://www.linkedin.com/in/ismail-nurudeen-03639414b)
-- ⚡ Fun fact: I love learning about the human brain and would love to learn how to play the Violin 🎻, Guitar or Ukulele 🎸 
+- ⚡ Fun fact: I'm learning German and How to play the Guitar 🎸 
 
 #### Technologies and Tools
 
