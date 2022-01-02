@@ -50,6 +50,9 @@ I have played around with Java, Javascript, Python, Typescript and Dart but have
 
 - Andela Learning Community (ALC) — Android
 Mentor. 
+- DSC OAU x She Code Africa - Android/Kotlin Mentor. 
+- @oscafrica ife - Organising Team Member. 
+
 
 Thanks for checking out my profile.
 
