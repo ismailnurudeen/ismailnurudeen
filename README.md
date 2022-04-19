@@ -43,11 +43,12 @@ I have played around with Java, Javascript, Python, Typescript and Dart but have
 
 #### Currently working at:
 
+- Android Engineer @[BllocGmbH](https://blloc.com)
 - Android/Kotlin Developer @[Deep Syntax ](https://deepsyntax.co)
 - Co-founder/Tech Lead @[DevloopNG](https://devloop.com.ng)
 
 #### Volunteer Experience
-
+- Chapter Co-lead @oscafrica ife.
 - Andela Learning Community (ALC) — Android
 Mentor. 
 - DSC OAU x She Code Africa - Android/Kotlin Mentor. 
