@@ -48,11 +48,11 @@ I have played around with Java, Javascript, Python, Typescript and Dart but have
 - Co-founder/Tech Lead @[DevloopNG](https://devloop.com.ng)
 
 #### Volunteer Experience
-- Chapter Co-lead @oscafrica ife.
+- Lead @[Google Developers Student Club, OAU (GDSC OAU)](https://gdsc.community.dev/obafemi-awolowo-university)
+- Chapter Co-lead [Open Source Community Africa (OSCA), Ife](https://oscafrica.org).
 - Andela Learning Community (ALC) — Android
 Mentor. 
 - DSC OAU x She Code Africa - Android/Kotlin Mentor. 
-- @oscafrica ife - Organising Team Member. 
 
 
 Thanks for checking out my profile.
