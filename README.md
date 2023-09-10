@@ -26,7 +26,6 @@ I have played around with Java, Javascript, Python, Typescript and Dart but have
 - 🌱 I sometimes write tech articles on https://ismailnurudeen.medium.com/
 - 👯 I’m looking to collaborate on Android, Kotlin and Machine Learning projects. 
 
-- 📫 How to reach me: [Twitter](https://twitter.com/10xNuru),[LinkedIn](https://www.linkedin.com/in/ismail-nurudeen-03639414b)
 - ⚡ Fun fact: I'm learning German and How to play the Guitar 🎸 
 
 #### Technologies and Tools
@@ -43,12 +42,12 @@ I have played around with Java, Javascript, Python, Typescript and Dart but have
 
 #### Currently working at:
 
-- Android Engineer @[BllocGmbH](https://blloc.com)
+- Android Engineer
 - Android/Kotlin Developer @[Deep Syntax ](https://deepsyntax.co)
 - Co-founder/Tech Lead @[DevloopNG](https://devloop.com.ng)
 
 #### Volunteer Experience
-- Lead @[Google Developers Student Club, OAU (GDSC OAU)](https://gdsc.community.dev/obafemi-awolowo-university)
+- Lead @[Google Developers Student Club, OAU (GDSC OAU)]
 - Chapter Co-lead [Open Source Community Africa (OSCA), Ife](https://oscafrica.org).
 - Andela Learning Community (ALC) — Android
 Mentor. 
